@@ -1,5 +1,8 @@
 ﻿**TCPDump Lab Walkthrough**
+  ## Lab video walkthrough 
+  Watch my video walkthrough here: https://youtu.be/XP65WQxhWBM
 
+  
 **What is this lab about?**
 
 In this lab, we use a tool called tcpdump to look at recorded network traffic. Think of network traffic like cars driving on a highway tcpdump lets you pull over to the side of the road and watch what's going by, where it's going, and what it's carrying.
